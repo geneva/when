@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/olebedev/when"
-	"github.com/olebedev/when/rules/en"
+	"github.com/geneva/when"
+	"github.com/geneva/when/rules/en"
 	"github.com/stretchr/testify/require"
 )
 

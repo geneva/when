@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/olebedev/when/rules"
+	"github.com/geneva/when/rules"
 )
 
 func ExactMonthDate(s rules.Strategy) rules.Rule {

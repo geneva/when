@@ -1,4 +1,4 @@
-module github.com/olebedev/when
+module github.com/geneva/when
 
 go 1.19
 

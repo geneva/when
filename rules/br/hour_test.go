@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/olebedev/when"
-	"github.com/olebedev/when/rules"
-	"github.com/olebedev/when/rules/br"
+	"github.com/geneva/when"
+	"github.com/geneva/when/rules"
+	"github.com/geneva/when/rules/br"
 )
 
 func TestHour(t *testing.T) {
